@@ -3562,10 +3562,10 @@
 
 		#main header.major h2:after {
 			background-color: #dddddd;
-			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
+			background-image: -moz-linear-gradient(90deg, #72653b, #7D7C78, #842a2a);
+			background-image: -webkit-linear-gradient(90deg, #72653b, #7D7C78, #842a2a);
+			background-image: -ms-linear-gradient(90deg, #72653b, #7D7C78, #842a2a);
+			background-image: linear-gradient(90deg, #72653b, #7D7C78, #842a2a);
 		}
 
 		#main table tbody tr {
