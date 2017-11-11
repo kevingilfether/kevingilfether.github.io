@@ -1,7 +1,18 @@
 ﻿body {
 }
 
+.iconLink {
+    border-bottom:none !important;
+}
+
+
+.clickable {
+    cursor:pointer !important;
+}
+
 .imageLeft {
     margin-left:0em !important;
     margin-right:3em;
 }
+
+
