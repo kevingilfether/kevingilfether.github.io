@@ -1,6 +1,10 @@
 ﻿body {
 }
 
+.smallerMargin {
+    margin-bottom: 0em;
+}
+
 .iconLink {
     border-bottom:none !important;
 }
