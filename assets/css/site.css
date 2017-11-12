@@ -15,8 +15,10 @@
 }
 
 .imageLeft {
-    margin-left:0em !important;
-    margin-right:3em;
+    margin-left:2em !important;
+    margin-top: 1em;
+    margin-bottom:0em;
+    margin-right:2em;
 }
 
 .ccLogo {
