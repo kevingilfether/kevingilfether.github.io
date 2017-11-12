@@ -3114,7 +3114,7 @@
 				font-size: 3.25em;
 			}
 
-			#header.alt > * {
+			/*#header.alt > * {
 				-moz-transition: opacity 3s ease;
 				-webkit-transition: opacity 3s ease;
 				-ms-transition: opacity 3s ease;
@@ -3137,7 +3137,7 @@
 				transition-delay: 0s;
 				display: block;
 				margin: 0 0 1.5em 0;
-			}
+			}*/
 
 				#header.alt .logo img {
 					display: block;
