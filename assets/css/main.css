@@ -3098,7 +3098,7 @@
 	}
 
 		#header h1 {
-			margin: 0 0 0.25em 0;
+			margin: 0 0 0 0;
 		}
 
 		#header p {
@@ -3107,7 +3107,7 @@
 		}
 
 		#header.alt {
-			padding: 3em 5em 2em 5em ;
+			padding: 2em 5em 2em 5em ;
 		}
 
 			#header.alt h1 {
@@ -3121,6 +3121,7 @@
 				#header.alt .logo img {
 					display: block;
 					margin: 0 auto;
+                    margin-bottom:.25em;
 					max-width: 50%;
                     max-height: 50px;
 				}
@@ -3128,11 +3129,11 @@
 		@media screen and (max-width: 1280px) {
 
 			#header {
-				padding: 4em 4em 0.1em 4em ;
+				padding: 3em 4em 0.1em 4em ;
 			}
 
 				#header.alt {
-					padding: 3em 4em 1.5em 4em ;
+					padding: 1.5em 4em 1.5em 4em ;
 				}
 
 		}
@@ -3144,7 +3145,7 @@
 			}
 
 				#header.alt {
-					padding: 2em 3em 1em 3em ;
+					padding: 1em 3em 1em 3em ;
 				}
 
 		}
@@ -3165,7 +3166,7 @@
 					}
 
 				#header.alt {
-					padding: 2em 2em 1em 2em ;
+					padding: 1em 2em 1em 2em ;
 				}
 
 					#header.alt h1 {
@@ -3181,7 +3182,7 @@
 			}
 
 				#header.alt {
-					padding: 1.5em 1.5em 1em 1.5em ;
+					padding: 1em 1.5em 1em 1.5em ;
 				}
 
 		}
@@ -3193,7 +3194,7 @@
 			}
 
 				#header.alt {
-					padding: 1em 1em 0.5em 1em ;
+					padding: .5em 1em 0.5em 1em ;
 				}
 
 		}
